@@ -1,0 +1,4 @@
+public function()
+{
+system.out.println("Hello");
+}
